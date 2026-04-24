@@ -34,14 +34,20 @@ I specialize in building polished, performant user interfaces with **React** and
 
 ---
 ### 📚 Tutorials & Learning Resources
-- ** [Javascript learning ](https://github.com/KOTOEWai/JavaScripts):** 
-- ** [React learning](https://github.com/KOTOEWai/React_Exercises):** 
-- ** [TyeScript learning](https://github.com/KOTOEWai/Typescript_Exercise):** 
-- ** [Next-js learning](https://github.com/KOTOEWai/Next_Exercises):** 
-- ** [Node-js learning](https://github.com/KOTOEWai/Node_Exercises):**
-- ** [Node-js learning](https://github.com/KOTOEWai/Node_Exercises):**
-- ** [Javascript-DSA](https://github.com/KOTOEWai/JavaScript-DSA):**(Still Learning)
-- ** [SQL](https://github.com/KOTOEWai/SQL):**(Still Learning)
+
+#### 💻 Core Languages
+- **🟨 [JavaScript Learning](https://github.com/KOTOEWai/JavaScripts):** Mastery of modern JS (ES6+) through practical examples.
+- **🟦 [TypeScript Exercises](https://github.com/KOTOEWai/Typescript_Exercise):** Deep dive into type safety and advanced TypeScript patterns.
+- **🛢️ [SQL Mastery](https://github.com/KOTOEWai/SQL):** Database fundamentals and query optimization (Still Learning).
+
+#### 🚀 Modern Frameworks
+- **⚛️ [React Exercises](https://github.com/KOTOEWai/React_Exercises):** Component architecture, hooks, and state management practices.
+- **🟢 [Node.js Tutorials](https://github.com/KOTOEWai/Node_Exercises):** Backend development with Express and asynchronous programming.
+- **▲ [Next.js Learning](https://github.com/KOTOEWai/Next_Exercises):** Server-side rendering, static site generation, and app routing.
+
+#### 🧠 CS & Software Engineering
+- **🤖 [JavaScript DSA](https://github.com/KOTOEWai/JavaScript-DSA):** Algorithmic problem solving and data structure implementations.
+- **📘 [Software Engineering Notes](https://github.com/KOTOEWai/SoftwareEngineeringNotes):** In-depth exploration of SOLID, Clean Code, and Design Patterns.
 ---
 
 ### 📊 GitHub Activity
