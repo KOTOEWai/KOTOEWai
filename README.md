@@ -9,8 +9,8 @@
 ### 💫 About Me
 I specialize in building polished, performant user interfaces with **React** and am currently deepening my expertise in **Software Engineering principles** and **Backend Architecture**.
 
-- 🔭 **Current Focus:** Building a full-featured E-commerce Platform and a Visitor Management System.
-- 🌱 **Learning:** Diving deep into **SOLID principles**, **Clean Code**, and **Design Patterns**.
+- 🔭 **Current Focus:** Learning DSA , Database and Advanced Software Engineering course 
+- 🌱 **Learning:** Diving deep into **SOLID principles**, **Clean Code** , **Database Design**,**DSA**, and **Design Patterns**.
 - 🎯 **Goals:** Mastering DSA, TDD, and Database Optimization.
 - 💬 **Ask me about:** React, JavaScript, and Frontend Performance.
 
