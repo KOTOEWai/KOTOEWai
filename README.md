@@ -33,6 +33,16 @@ I specialize in building polished, performant user interfaces with **React** and
 - **📘 SE Fundamentals:** Implementing SOLID and Clean Code patterns in real-world scenarios.
 
 ---
+### 📚 Tutorials & Learning Resources
+- ** [Javascript learning ](https://github.com/KOTOEWai/JavaScripts):** 
+- ** [React learning](https://github.com/KOTOEWai/React_Exercises):** 
+- ** [TyeScript learning](https://github.com/KOTOEWai/Typescript_Exercise):** 
+- ** [Next-js learning](https://github.com/KOTOEWai/Next_Exercises):** 
+- ** [Node-js learning](https://github.com/KOTOEWai/Node_Exercises):**
+- ** [Node-js learning](https://github.com/KOTOEWai/Node_Exercises):**
+- ** [Javascript-DSA](https://github.com/KOTOEWai/JavaScript-DSA):**(Still Learning)
+- ** [SQL](https://github.com/KOTOEWai/SQL):**(Still Learning)
+---
 
 ### 📊 GitHub Activity
 <div align="center">
