@@ -27,10 +27,13 @@ I specialize in building polished, performant user interfaces with **React** and
 
 ---
 
-### 🏗️ Projects & Learning
-- **🛒 E-commerce Platform:** A computer shop web application focused on UX and performance.
-- **🆔 Visitor Management System:** A QR-based check-in/out system to modernize logbooks.
-- **📘 SE Fundamentals:** Implementing SOLID and Clean Code patterns in real-world scenarios.
+###  Projects
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
+| Cell 3   | Cell 4   |
+
 
 ---
 ### 📚 Tutorials & Learning Resources
