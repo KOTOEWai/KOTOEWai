@@ -45,7 +45,7 @@ I specialize in building polished, performant user interfaces with **React** and
 
 #### 🧠 CS & Software Engineering
 - **🤖 [JavaScript DSA](https://github.com/KOTOEWai/JavaScript-DSA):** Algorithmic problem solving and data structure implementations.
-- **📘 [Software Engineering Notes](https://github.com/KOTOEWai/SoftwareEngineeringNotes):** In-depth exploration of SOLID, Clean Code, and Design Patterns.
+
 ---
 
 ### 📊 GitHub Activity
