@@ -27,14 +27,7 @@ I specialize in building polished, performant user interfaces with **React** and
 
 ---
 
-###  Projects
 
-| Title| Link |
-| -------- | -------- |
-| Book-Shelf   | [Link](https://book-shelf-coral.vercel.app/)  |
-| Shawdowing-Pratice  | [Link](https://shawdowing-pratice.vercel.app/)  |
-|TodoList | [Link](https://todo-list-nextjs-drab.vercel.app/) |
-| Ecommerce | [Link](https://point-ecommerce.vercel.app/)
 
 
 ---
